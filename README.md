@@ -1,1 +1,1 @@
-# coding-style
+# ShinePress Coding Standard
