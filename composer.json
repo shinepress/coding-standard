@@ -5,7 +5,7 @@
 		"php-cs-fixer/shim": "^3.75"
 	},
 	"scripts": {
-		"syntax:check": "php-cs-fixer check --config=./php-cs-fixer/shinepress-v1.php --using-cache=no --allow-risky=yes",
-		"syntax:fix": "php-cs-fixer fix --config=./php-cs-fixer/shinepress-v1.php --using-cache=no --allow-risky=yes"
+		"syntax:check": "php-cs-fixer check --config=./php-cs-fixer/shinepress-v1.php --verbose --using-cache=no --allow-risky=yes",
+		"syntax:fix": "php-cs-fixer fix --config=./php-cs-fixer/shinepress-v1.php --verbose --using-cache=no --allow-risky=yes"
 	}
 }
